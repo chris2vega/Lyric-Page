@@ -1,0 +1,33 @@
+h1 {
+    color: #FFA500; 
+    font-family: "Matangi", sans-serif;
+    font-size: 3em; 
+
+}
+
+h2 {
+  border: 5px solid ; 
+  padding: 1px; 
+  margin: 1px; 
+  background-color: #FFA500;
+  width: fit-content;  
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 25em;
+  height: 25em;
+}
+
+p, b {
+  padding: 1px; 
+  margin: 15px; 
+  text-align: center;
+  width: fit-content; 
+  
+}
+
+
+.my-background-section {
+  background-image: url(/clementine.jpe); }
